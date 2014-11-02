@@ -1,0 +1,13 @@
+{
+  "name": "cordova.middleman",
+  "version": "0.0.1",
+  "dependencies": {
+    "echojs": "latest",
+    "jquery": "latest",
+    "fastclick": "latest",
+    "normalize-css": "latest",
+    "ionic": "latest"
+  },
+  "devDependencies": {},
+  "exportsOverride": {}
+}
